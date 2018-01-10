@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/jroimartin/gocui"]
+	path = vendor/github.com/jroimartin/gocui
+	url = https://github.com/jroimartin/gocui
